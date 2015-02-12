@@ -1,0 +1,4 @@
+﻿<resources>
+  <style name="Theme.MainBackground" parent="android:Theme.Holo.Light">
+  </style>
+</resources>
